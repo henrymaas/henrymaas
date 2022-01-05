@@ -7,9 +7,8 @@
   * Implementing new NLP models for some specific tasks.
   
 - 🔨 I currently use: Python, ReactJS and AWS.
-<!--
+
 - 🤔 I’m currently studying:
   * Software Architecture;
   * Data Science;
   * Secure Software Development.
--->
