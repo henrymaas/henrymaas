@@ -7,6 +7,6 @@
   * Implementing new NLP models for some specific tasks.
 
 - 🤔 I’m currently studying:
+  * CISSP Certification;
   * Software Architecture;
-  * Data Science;
   * Secure Software Development.
